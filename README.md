@@ -61,6 +61,9 @@
 - ✅ Contribute to **open-source**
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhayananth1511&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 🤝 Connect With Me  
 
