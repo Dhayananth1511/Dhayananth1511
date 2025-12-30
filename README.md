@@ -52,7 +52,7 @@ A simple application focusing on logic, state handling, and clean structure.
 
 ### 🎮 Number Guessing Game  
 A logic-driven project to strengthen control flow and program structure.  
-- 💻 Code:
+- 💻 Code: https://github.com/Dhayananth1511/NumberGuessingGame
 - 
 👉 Check my repositories for complete implementations.
 
