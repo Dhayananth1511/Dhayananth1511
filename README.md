@@ -44,10 +44,17 @@
 
 ## 🚀 Projects  
 
-- 🔹 **Java Console Applications(Coming Soon)**
-- 🔹 **DSA Problem Solutions (Coming Soon)**
-- 🔹 **Machine Learning Mini Projects (Coming Soon)**
-- 🔹 **End-to-End AI Projects (Coming Soon)**
+-### ✅ To-Do List Application  
+A simple application focusing on logic, state handling, and clean structure.   
+- 💻 Code:   
+
+---
+
+### 🎮 Number Guessing Game  
+A logic-driven project to strengthen control flow and program structure.  
+- 💻 Code: 
+
+---
 
 👉 Check my repositories for complete implementations.
 
