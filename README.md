@@ -1,0 +1,108 @@
+<h1 align="center">Hi 👋, I'm Dhayananth N</h1>
+<h3 align="center">AI & Data Science Student | Aspiring Software Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhayananth1511&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+- 🎓 Second Year **Artificial Intelligence & Data Science** Student  
+- 💡 Interested in **Product-Based Companies**
+- 💻 Strong in **Java, DSA, Problem Solving, Logical Reasoning**
+- 🤖 Exploring **Machine Learning, Deep Learning & System Design**
+- 🚀 Building projects from **basic to advanced level**
+- 📫 Reach me at: **dhayananth1511@gmail.com**
+
+---
+
+## 🛠️ Skills & Technologies  
+
+### 💻 Programming Languages
+- Java  
+- Python  
+- C
+- C++(basics)
+
+### 📊 Data Science & AI (Learning)
+- Machine Learning  
+- Deep Learning  
+- Data Analysis  
+- Statistics  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+- MySQL  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhayananth1511&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhayananth1511&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhayananth1511&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+## 🚀 Projects  
+
+- 🔹 **Java Console Applications(Coming Soon)**
+- 🔹 **DSA Problem Solutions (Coming Soon)**
+- 🔹 **Machine Learning Mini Projects (Coming Soon)**
+- 🔹 **End-to-End AI Projects (Coming Soon)**
+
+👉 Check my repositories for complete implementations.
+
+---
+
+## 🎯 Current Goals  
+
+- ✅ Master **Data Structures & Algorithms**
+- ✅ Build **industry-level AI projects**
+- ✅ Crack **product-based company placements**
+- ✅ Contribute to **open-source**
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="left">
+  <a href="https://github.com/Dhayananth1511" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhayananth-n/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+
+<!--
+**Dhayananth1511/Dhayananth1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
