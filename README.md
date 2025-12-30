@@ -46,16 +46,14 @@
 
 -### ✅ To-Do List Application  
 A simple application focusing on logic, state handling, and clean structure.   
-- 💻 Code:   
+- 💻 Code:   https://github.com/Dhayananth1511/ToDo-App
 
 ---
 
 ### 🎮 Number Guessing Game  
 A logic-driven project to strengthen control flow and program structure.  
-- 💻 Code: 
-
----
-
+- 💻 Code:
+- 
 👉 Check my repositories for complete implementations.
 
 ---
