@@ -40,21 +40,7 @@
 
 ---
 
-## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhayananth1511&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhayananth1511&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhayananth1511&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
----
 
 ## 🚀 Projects  
 
