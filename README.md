@@ -44,7 +44,7 @@
 
 ## 🚀 Projects  
 
--### ✅ To-Do List Application  
+### ✅ To-Do List Application  
 A simple application focusing on logic, state handling, and clean structure.   
 - 💻 Code:   https://github.com/Dhayananth1511/ToDo-App
 
