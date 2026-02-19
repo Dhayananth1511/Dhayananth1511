@@ -55,7 +55,7 @@ AI-powered web assistant built using Flask and Hugging Face API.
 - Deployed on Render
 
 ### 🌐 Live Demo
-[Add your Render link here]
+https://ai-projects-blae.onrender.com
 
 ### 🛠 Tech Stack
 - Python
