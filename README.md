@@ -43,6 +43,25 @@
 
 
 ## 🚀 Projects  
+# 🤖 Rocky AI Agent
+
+AI-powered web assistant built using Flask and Hugging Face API.
+
+## 🚀 Features
+- Modular AI agent architecture
+- Memory management
+- Tool integration
+- Secure environment variables
+- Deployed on Render
+
+## 🌐 Live Demo
+[Add your Render link here]
+
+## 🛠 Tech Stack
+- Python
+- Flask
+- Hugging Face API
+- Render
 
 ### ✅ To-Do List Application  
 A simple application focusing on logic, state handling, and clean structure.   
