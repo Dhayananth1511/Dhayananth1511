@@ -90,17 +90,18 @@ A logic-driven project to strengthen control flow and program structure.
 ---
 
 ## 🔥 Contribution Streak
-<center>
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dhayananth1511&theme=github_dark)
-</center>
+
 
 ---
 
 ## 📊 GitHub Stats
-<center>
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dhayananth1511&show_icons=true&theme=github_dark)
+<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=github_dark)
-</center>
+
 
 ---
 
