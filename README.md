@@ -89,6 +89,10 @@ A logic-driven project to strengthen control flow and program structure.
 
 ---
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dhayananth1511&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dhayananth1511)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact)
+
 ## 🤝 Connect With Me  
 
 <p align="left">
