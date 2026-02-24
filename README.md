@@ -110,27 +110,27 @@ A logic-driven project to strengthen control flow and program structure.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhayananth1511&show_icons=true&theme=dark&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhayananth1511&show_icons=true&theme=github_dark&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile"
   />
 </p>
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=dark&border_radius=20&hide_border=false"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=github_dark&border_radius=20&hide_border=false"
   />
 </p>
 
 
 ---
-
+t
 ### 🧠 LeetCode Stats
 
 
 <p align="center">
   <a href="https://leetcode.com/u/ZzwGZFWBZs/">
     <img
-      src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650"
+      src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=github_dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650"
       alt="LeetCode Stats"
     />
   </a>
