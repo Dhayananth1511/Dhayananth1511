@@ -107,9 +107,9 @@ A logic-driven project to strengthen control flow and program structure.
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/https://leetcode.com/u/ZzwGZFWBZs/?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ZzwGZFWBZs/?theme=dark&font=Baloo&ext=heatmap)
 ### 🧩 LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/https://leetcode.com/u/ZzwGZFWBZs/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ZzwGZFWBZs/)
 ### 💡 Problem Solving
 ![LeetCode Problems](https://img.shields.io/badge/LeetCode-Active-success?logo=leetcode)
 
