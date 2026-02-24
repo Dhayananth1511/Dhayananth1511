@@ -9,6 +9,7 @@
 
 ## 👨‍💻 About Me  
 
+- 🔭 Focused on building scalable software solutions and applying AI to real-world problems.
 - 🎓 Second Year **Artificial Intelligence & Data Science** Student  
 - 💡 Interested in **Product-Based Companies**
 - 💻 Strong in **Java, DSA, Problem Solving, Logical Reasoning**
@@ -26,7 +27,7 @@
 - C
 - C++(basics)
 
-### 📊 Data Science & AI (Learning)
+### 📊 Data Science & AI 
 - Machine Learning  
 - Deep Learning  
 - Data Analysis  
@@ -45,6 +46,7 @@
 # 🚀 Projects  
 ## 🤖 Rocky AI Agent
 
+📌 Designed to demonstrate modular AI agent architecture and real-world deployment.
 AI-powered web assistant built using Flask and Hugging Face API.
 
 ### 🚀 Features
@@ -110,8 +112,7 @@ A logic-driven project to strengthen control flow and program structure.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ZzwGZFWBZs/?theme=dark&font=Baloo&ext=heatmap)
 ### 🧩 LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ZzwGZFWBZs/)
-### 💡 Problem Solving
-![LeetCode Problems](https://img.shields.io/badge/LeetCode-Active-success?logo=leetcode)
+
 
 ---
 
@@ -127,7 +128,7 @@ A logic-driven project to strengthen control flow and program structure.
 </p>
 
 ---
-
+📌 Open to internships, collaborative projects, and learning opportunities.
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
 
