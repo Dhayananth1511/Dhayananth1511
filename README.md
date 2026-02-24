@@ -93,35 +93,39 @@ A logic-driven project to strengthen control flow and program structure.
 
 ## 🔥 Contribution Streak
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dhayananth1511&theme=github_dark)
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhayananth1511&show_icons=true&theme=tokyonight&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=dhayananth1511&theme=github_dark"
   />
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=tokyonight&border_radius=20&hide_border=false"
-  />
-</p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dhayananth1511&show_icons=true&theme=github_dark)
-<br>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=github_dark)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhayananth1511&show_icons=true&theme=github_dark&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=github_darkt&border_radius=20&hide_border=false"
+  />
+</p>
 
 
 ---
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ZzwGZFWBZs/?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ZzwGZFWBZs/?theme=github_dark&font=Baloo&ext=heatmap)
 <p align="center">
   <a href="https://leetcode.com/u/ZzwGZFWBZs/">
     <img
@@ -131,8 +135,7 @@ A logic-driven project to strengthen control flow and program structure.
   </a>
 </p>
 
-### 🧩 LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ZzwGZFWBZs/)
+
 
 
 ---
@@ -146,10 +149,14 @@ A logic-driven project to strengthen control flow and program structure.
   <a href="https://www.linkedin.com/in/dhayananth-n/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
+   <a href="mailto:dhayananth1511@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 📌 Open to internships, collaborative projects, and learning opportunities.
+<br>
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
 
