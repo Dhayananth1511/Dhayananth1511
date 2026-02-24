@@ -116,7 +116,7 @@ A logic-driven project to strengthen control flow and program structure.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=github_darkt&border_radius=20&hide_border=false"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=github_dark&border_radius=20&hide_border=false"
   />
 </p>
 
@@ -125,7 +125,7 @@ A logic-driven project to strengthen control flow and program structure.
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ZzwGZFWBZs/?theme=github_dark&font=Baloo&ext=heatmap)
+
 <p align="center">
   <a href="https://leetcode.com/u/ZzwGZFWBZs/">
     <img
