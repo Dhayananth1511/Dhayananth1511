@@ -143,7 +143,7 @@ t
 
 ## 🤝 Connect With Me  
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Dhayananth1511" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
   </a>
@@ -153,6 +153,7 @@ t
    <a href="mailto:dhayananth1511@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://dhayananth1511.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
