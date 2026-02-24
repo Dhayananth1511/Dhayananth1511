@@ -94,7 +94,19 @@ A logic-driven project to strengthen control flow and program structure.
 ## 🔥 Contribution Streak
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dhayananth1511&theme=github_dark)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhayananth1511&show_icons=true&theme=tokyonight&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile"
+  />
+</p>
 
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhayananth1511&layout=compact&theme=tokyonight&border_radius=20&hide_border=false"
+  />
+</p>
 
 ---
 
@@ -110,6 +122,15 @@ A logic-driven project to strengthen control flow and program structure.
 ### 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ZzwGZFWBZs/?theme=dark&font=Baloo&ext=heatmap)
+<p align="center">
+  <a href="https://leetcode.com/u/ZzwGZFWBZs/">
+    <img
+      src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
 ### 🧩 LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ZzwGZFWBZs/)
 
