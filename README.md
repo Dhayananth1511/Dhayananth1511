@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhayananth1511/Dhayananth1511/main/banner.png" alt="banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Dhayananth N</h1>
 <h3 align="center">AI & Data Science Student</h3>
 <h3 align="center">Aspiring Software Engineer | Java Developer | Machine Learning Enthusiast</h3>
