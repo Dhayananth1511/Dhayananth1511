@@ -8,9 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhayananth1511&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   <br>
-  <a href="https://dhayananth1511.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
 </p>
 
 ---
