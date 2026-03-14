@@ -1,3 +1,7 @@
+<h1 align="center"> 
+<img src="https://img.shields.io/badge/Welcome-Dhayananth%20N-black?logo=github&style=for-the-badge&logoColor=white"/>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Dhayananth N</h1>
 <h3 align="center">AI & Data Science Student</h3>
 <h3 align="center">Aspiring Software Engineer | Java Developer | Machine Learning Enthusiast</h3>
@@ -5,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhayananth1511&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   <br>
-  <a href="https://dhayananth1511.github.io/Portfolio/" target="_blank">Portfolio</a?
+  <a href="https://dhayananth1511.github.io/Portfolio/" target="_Blank">Portfolio</a?
 </p>
 
 ---
