@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<img src="https://img.shields.io/badge/Welcome-Dhayananth%20N-black?logo=github&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Welcome?logo=github&style=for-the-badge&logoColor=white"/>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Dhayananth N</h1>
