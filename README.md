@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app👋&fontSize=30&animation=fadeIn" alt="YOUR_NAME's animated banner"/>
-  
 <h1 align="center">Hi 👋, I'm Dhayananth N</h1>
 <h3 align="center">AI & Data Science Student</h3>
 <h3 align="center">Aspiring Software Engineer | Java Developer | Machine Learning Enthusiast</h3>
