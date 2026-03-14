@@ -1,7 +1,3 @@
-<h1 align="center"> 
-<img src="https://img.shields.io/badge/Welcome?logo=github&style=for-the-badge&logoColor=white"/>
-</h1>
-
 <h1 align="center">Hi 👋, I'm Dhayananth N</h1>
 <h3 align="center">AI & Data Science Student</h3>
 <h3 align="center">Aspiring Software Engineer | Java Developer | Machine Learning Enthusiast</h3>
