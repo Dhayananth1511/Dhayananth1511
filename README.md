@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhayananth1511/Dhayananth1511/main/banner.png" alt="banner" width="100%" />
+  <img src="" alt="banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Dhayananth N</h1>
 <h3 align="center">AI & Data Science Student</h3>
@@ -8,7 +8,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhayananth1511&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   <br>
-  <a href="https://dhayananth1511.github.io/Portfolio/" target="_Blank">Portfolio</a?
+  <a href="https://dhayananth1511.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
