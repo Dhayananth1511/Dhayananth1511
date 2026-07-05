@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me  
 
 - 🔭 Focused on building scalable software solutions and applying AI to real-world problems.
-- 🎓 Second Year **Artificial Intelligence & Data Science** Student  
+- 🎓 Third Year **Artificial Intelligence & Data Science** Student  
 - 💡 Interested in **Product-Based Companies**
 - 💻 Strong in **Java, DSA, Problem Solving, Logical Reasoning**
 - 🤖 Exploring **Machine Learning, Deep Learning & System Design**
