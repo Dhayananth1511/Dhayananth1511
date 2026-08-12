@@ -8,19 +8,19 @@
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-6D28D9?style=for-the-badge\&logo=googlescholar\&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![CGPA](https://img.shields.io/badge/CGPA-8.06%2F10-4C1D95?style=for-the-badge)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dhayananth1511@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dhayananth1511)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhayananth1511@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhayananth1511)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhayananth1511\&color=6D28D9\&style=for-the-badge\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhayananth1511&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -56,7 +56,7 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 ### 💻 Programming Languages
 
 ![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
+![Python](https://skillicons.dev/icons?i=py)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -269,8 +269,8 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/ZzwGZFWBZs/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/dhayananth1511)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ZzwGZFWBZs/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhayananth1511)
 
 <br/>
 
@@ -375,10 +375,10 @@ open_to:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dhayananth1511)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dhayananth1511@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhayananth1511)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhayananth1511@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
 
 </div>
 
