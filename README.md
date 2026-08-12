@@ -55,14 +55,9 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 ### 💻 Programming Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=py)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/> </p>
 
-`Java` `Python` `C` `C++ Basics` `JavaScript` `TypeScript`
+Java Python C C++ Basics JavaScript TypeScript
 
 ### 🌐 Frontend & Backend
 
