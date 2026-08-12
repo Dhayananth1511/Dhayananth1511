@@ -62,7 +62,7 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
-`Java` `Python` `C` `C++` `JavaScript` `TypeScript`
+`Java` `Python` `C` `C++ Basics` `JavaScript` `TypeScript`
 
 ### 🌐 Frontend & Backend
 
@@ -73,7 +73,7 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 ![Express](https://skillicons.dev/icons?i=express)
 ![Flask](https://skillicons.dev/icons?i=flask)
 
-`HTML` `CSS` `JavaScript` `React` `TypeScript` `Node.js` `Express.js` `REST APIs` `JWT`
+`HTML` `CSS` `JavaScript` `React` `TypeScript` `Node.js` `Express.js` `Flask` `REST APIs` `JWT`
 
 ### 🗄️ Databases
 
@@ -84,12 +84,9 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 ### 🤖 AI / ML / GenAI
 
-<p> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" title="Machine Learning"/> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" title="Hugging Face"/> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" title="LangChain"/> <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="42" title="LLMs"/> </p>
-<p> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" title="Random Forest"/> <img src="https://cdn.simpleicons.org/xgboost/0066CC" width="42" title="XGBoost"/> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" title="Isolation Forest"/> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" title="Hugging Face API"/> </p>
+`Machine Learning` `Deep Learning` `Data Analysis` `Statistics` `LLMs` `Prompt Engineering` `RAG` `Agentic AI` `MCP` `AI Agents` `Multi-Agent Systems`
 
-`Machine Learning` `LLMs` `Prompt Engineering` `RAG` `Agentic AI` `MCP` `AI Agents` `Multi-Agent Systems`
-
-`Hugging Face API`
+`Random Forest` `XGBoost` `Isolation Forest` `Hugging Face API`
 
 ### ☁️ DevOps & Cloud
 
@@ -106,12 +103,10 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
-<p>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="42" title="Google Colab"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter Notebook"/>  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="42" title="Canva"/> <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="42" title="MS Office"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="42" title="Python IDE"/> <img src="https://cdn.simpleicons.org/intellijidea/000000" width="42" title="Java IDE"/> </p>
 
 `VS Code` `Google Colab` `Jupyter Notebook` `Figma` `Canva` `MS Office` `Python IDE` `Java IDE`
 
 ### 🤖 AI Developer Tools
-<p> <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="42" title="ChatGPT"/> <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="42" title="Claude"/> <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="42" title="GitHub Copilot"/> <img src="https://cdn.simpleicons.org/google/4285F4" width="42" title="Antigravity"/> </p>
 
 `ChatGPT` `Claude` `GitHub Copilot` `Antigravity`
 
