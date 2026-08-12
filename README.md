@@ -1,256 +1,267 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Dhayananth%20N&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40"/>
 
-### AI &amp; Data Science Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dhayananth%20N&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI-powered+full-stack+systems;Exploring+Agentic+AI+%2B+MCP;Java+%2B+Python+Developer;Turning+ideas+into+production" alt="Typing SVG" />
+### AI & Data Science Student • Software Engineer • Full Stack & AI Enthusiast
 
-<br/>
-
-![B.Tech](https://img.shields.io/badge/B.Tech-AI%20and%20Data%20Science-6D28D9?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white)
-![Location](https://img.shields.io/badge/Bannari%20Amman%20Institute%20of%20Technology-Tamil%20Nadu,%20India-4C1D95?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+systems;Exploring+Agentic+AI+%2B+MCP;Java+%2B+Python+Developer;Turning+ideas+into+real-world+products" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhayananth1511@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Dhayananth1511)
+![B.Tech](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-6D28D9?style=for-the-badge\&logo=googlescholar\&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.06%2F10-4C1D95?style=for-the-badge)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhayananth1511&amp;color=6D28D9&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Dhayananth1511?style=for-the-badge&amp;color=7C3AED&amp;labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/Dhayananth1511?style=for-the-badge&amp;color=8B5CF6&amp;labelColor=1a1a2e)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dhayananth1511@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dhayananth1511)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dhayananth1511\&color=6D28D9\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 </div>
-
-<br/>
 
 ---
 
 ## 🧠 About Me
 
-<div align="center">
-
 ```yaml
 name: Dhayananth N
-role: AI and Data Science Student · Aspiring Software Engineer · Java Developer
-education: B.Tech, Artificial Intelligence and Data Science (2024 - 2028)
-focus: Full-stack development, Agentic AI, LLMs, and Model Context Protocol (MCP)
-mindset: Learn deeply, build real, ship working products
+role: AI & Data Science Student · Aspiring Software Engineer · Java Developer
+education: B.Tech Artificial Intelligence & Data Science (2024 - 2028)
+focus: DSA, Full Stack, AI/ML, Agentic AI, LLMs, MCP, DevOps
+mindset: Learn deeply · Build real · Solve practical problems
 ```
 
-</div>
+I'm a third-year **Artificial Intelligence and Data Science** student interested in building practical software and AI systems.
 
-I'm a third-year AI and Data Science engineering student who enjoys building real, working software rather than tutorials. I recently completed a Software Engineering internship at **Presidio (PRIME Internship)**, where I worked hands-on with full-stack development, Docker, CI/CD (GitHub Actions), cloud fundamentals, Generative AI, LLMs, Agentic AI, and MCP — and shipped a capstone multi-agent system as the outcome. I care about writing clean code, understanding concepts from first principles, and steadily leveling up toward product-based company roles.
+* 🔭 Building scalable software solutions and applying AI to real-world problems
+* 💻 Strong focus on **Java, DSA, Problem Solving and Logical Reasoning**
+* 🤖 Exploring **Machine Learning, Deep Learning, LLMs, RAG and Agentic AI**
+* 🌐 Building **Full Stack** applications with modern frontend/backend technologies
+* ☁️ Learning **Docker, CI/CD, AWS and cloud fundamentals**
+* 🔌 Exploring **Model Context Protocol (MCP)** and AI tool integration
+* 🧩 Interested in **AI, Full Stack, DevOps, UI/UX, Automation and Linux**
+* 📫 **[dhayananth1511@gmail.com](mailto:dhayananth1511@gmail.com)**
 
-- 🔭 Focused on building scalable software solutions and applying AI to real-world problems
-- 🎓 Third-year **Artificial Intelligence &amp; Data Science** student
-- 💡 Interested in **Product-Based Companies**
-- 💻 Strong in **Java, DSA, Problem Solving, Logical Reasoning**
-- 🤖 Exploring **Machine Learning, Deep Learning, System Design &amp; Agentic AI**
-- 🚀 Building projects from basic to advanced level
-- 📫 Reach me at **dhayananth1511@gmail.com**
-
-**🔭 Open To:** Software Engineering Internships · AI/ML Engineering roles · Full-Stack opportunities · Open-source collaboration · Learning opportunities
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp)
-
-**Full-Stack (from capstone project)**
-
-![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
-
-**Cloud &amp; DevOps**
-
-![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions)
-
-**Databases &amp; Data Tools**
-
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
-
-**IDEs &amp; Design Tools**
-
-![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&amp;logo=googlecolab&amp;logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&amp;logo=microsoftoffice&amp;logoColor=white)
-
-**AI Tools I use daily**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&amp;logo=openai&amp;logoColor=white) ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&amp;logo=githubcopilot&amp;logoColor=white)
-
-</div>
+**Open to:** Software Engineering Internships · AI/ML Opportunities · Full-Stack Projects · Open Source · Collaborative Learning
 
 ---
 
-## 🤖 Core Concepts &amp; AI/ML Focus
+## 🛠️ Skills & Technologies
 
-<div align="center">
+### 💻 Programming Languages
 
-| Domain | Focus |
-|---|---|
-| Core CS | OOPs, DBMS, Data Structures &amp; Algorithms |
-| Data Science &amp; AI | Machine Learning, Deep Learning, Data Analysis, Statistics |
-| Generative AI &amp; LLMs | Prompting, LLM fundamentals, agent architectures |
-| Agentic AI &amp; MCP | Multi-agent systems, Model Context Protocol, tool integration |
-| Full-Stack Development | React.js, Node.js/Express, MongoDB, REST APIs |
-| DevOps &amp; Cloud | Docker, CI/CD (GitHub Actions), cloud fundamentals, AWS |
-| Areas of Interest | AI, Full Stack, DevOps, UI/UX Design, Automation, Linux |
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
-</div>
+`Java` `Python` `C` `C++ Basics` `JavaScript` `TypeScript`
+
+### 🌐 Frontend & Backend
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+`HTML` `CSS` `JavaScript` `React` `TypeScript` `Node.js` `Express.js` `Flask` `REST APIs` `JWT`
+
+### 🗄️ Databases
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+`MongoDB` `MongoDB Atlas` `MySQL` `SQL` `SQLite` `Mongoose`
+
+### 🤖 AI / ML / GenAI
+
+`Machine Learning` `Deep Learning` `Data Analysis` `Statistics` `LLMs` `Prompt Engineering` `RAG` `Agentic AI` `MCP` `AI Agents` `Multi-Agent Systems`
+
+`Random Forest` `XGBoost` `Isolation Forest` `Hugging Face API`
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+`Docker` `GitHub Actions` `CI/CD` `AWS` `AWS CloudFront` `AWS SSM Parameter Store` `AWS CloudWatch` `Linux` `Git` `GitHub`
+
+### 🧰 Development & Design Tools
+
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+`VS Code` `Google Colab` `Jupyter Notebook` `Figma` `Canva` `MS Office` `Python IDE` `Java IDE`
+
+### 🤖 AI Developer Tools
+
+`ChatGPT` `Claude` `GitHub Copilot` `Antigravity`
+
+---
+
+## 🧠 Computer Science & Engineering Concepts
+
+* **OOPs** — Object-Oriented Programming
+* **DBMS** — Database Management Systems
+* **DSA** — Data Structures & Algorithms
+* **Problem Solving & Logical Reasoning**
+* **Authentication & Authorization** — JWT / RBAC
+* **API Design & Middleware**
+* **Microservices & Backend Architecture**
+* **CI/CD & DevOps**
+* **Cloud Fundamentals**
+* **AI Application Security & Prompt Injection Awareness**
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🔹 Multi-Agent Academic Project Mentor — Presidio Internship Capstone</b></summary>
-<br/>
+### ✈️ AI Travel Planner — Presidio PRIME Capstone
 
-An AI-integrated multi-agent system built as the capstone for the Presidio PRIME Internship, designed to mentor students through academic projects.
+**Next-Gen Multi-Agent Swarm Travel Planner** designed to automate travel planning from conversational input to itinerary generation, booking-related workflows and scheduling.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React.js, Node.js/Express, MongoDB, Python + LLM APIs |
-| **Deployment** | Docker, AWS |
-| **Architecture** | Multi-agent orchestration with LLM-powered reasoning |
-| **Repository** | [github.com/Dhayananth1511/CapStoneProject_Presidio_InternShip](https://github.com/Dhayananth1511/CapStoneProject_Presidio_InternShip) |
+**Architecture & Engineering**
 
-Built end-to-end across the full stack — from UI to API layer to LLM-integrated agent logic — as the practical outcome of an internship curriculum covering backend engineering, cloud, and frontend UX.
+* React frontend with Express/Node.js backend
+* JWT authentication and middleware
+* MongoDB Atlas for trip and user data
+* Supervisor / Coordinator multi-agent architecture
+* LLM-powered slot extraction and missing-information handling
+* Parallel agents for weather, transport, accommodation and activities
+* MCP adapters for standardized tool requests
+* Short-term and long-term memory concepts
+* AWS SSM for configuration/secrets and CloudWatch for diagnostics
+* Google Calendar integration and Razorpay test gateway in the project workflow
+* Docker / AWS deployment architecture
 
-</details>
+**MCP / External Tool Integrations**
 
-<details>
-<summary><b>🔹 Rocky AI Agent — Conversational AI Web Assistant</b></summary>
-<br/>
+* Open-Meteo weather
+* Google Places / Maps
+* Local transit / route calculation
+* Accommodation / booking tools
+* Activities / destination information
+* Google Calendar
+* Razorpay test gateway
 
-AI-powered web assistant demonstrating modular AI agent architecture with memory management and tool integration.
+**Repository:** [CapStoneProject_Presidio_InternShip](https://github.com/Dhayananth1511/CapStoneProject_Presidio_InternShip)
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, Flask, Hugging Face API |
-| **Deployment** | Render |
-| **Repository** | [github.com/Dhayananth1511/AI_Projects/tree/main/ChatboxAI](https://github.com/Dhayananth1511/AI_Projects/tree/main/ChatboxAI) |
-| **Live Demo** | [ai-projects-blae.onrender.com](https://ai-projects-blae.onrender.com) |
+---
 
-</details>
+### 🤖 Rocky AI — Conversational AI Chatbot
 
-<details>
-<summary><b>🔹 AI Planner — AI-Powered Document Analysis &amp; Scheduling</b></summary>
-<br/>
+AI-powered conversational web assistant demonstrating modular AI-agent architecture.
 
-An AI tool that analyzes documents and automatically generates project schedules.
+**Features**
 
-| Attribute | Detail |
-|---|---|
-| **Focus** | AI-powered document analysis, automated project scheduling |
-| **Category** | Applied AI / RAG product |
+* Modular AI-agent architecture
+* Memory management
+* Tool integration
+* Secure environment variables
+* Flask backend
+* Hugging Face API integration
+* Render deployment
 
-</details>
+**Repository:** [Rocky-AI-Intelligent-AI-Agent-Web-Application](https://github.com/Dhayananth1511/Rocky-AI-Intelligent-AI-Agent-Web-Application)
 
-<details>
-<summary><b>🔹 GigPulse — AI Parametric Insurance for Gig Workers</b></summary>
-<br/>
+---
 
-An AI-driven parametric insurance concept designed for food-delivery and gig-economy workers.
+### 💼 HireMatrix AI — Predictive Hiring Intelligence System
 
-| Attribute | Detail |
-|---|---|
-| **Focus** | AI-based risk modeling for gig worker insurance |
-| **Category** | Applied AI product |
+Automation-focused AI project for streamlining the hiring process.
 
-</details>
+**Repository:** [HireMatrix-AI-Predictive-Hiring-Intelligence-System](https://github.com/Dhayananth1511/-HireMatrix-AI-Predictive-Hiring-Intelligence-System)
 
-<details>
-<summary><b>🔹 HireMatrix AI — Hiring Process Automation</b></summary>
-<br/>
+---
 
-An automation tool designed to streamline and support the hiring pipeline using AI.
+### 🛡️ GigPulse — AI Parametric Insurance
 
-| Attribute | Detail |
-|---|---|
-| **Focus** | AI-based hiring automation |
-| **Category** | Applied AI product |
+AI-powered parametric insurance solution for **food-delivery workers**, using data-driven risk analysis and automated insurance logic.
 
-</details>
+**ML focus:** `Random Forest` `XGBoost` `Isolation Forest`
 
-<details>
-<summary><b>🔹 To-Do List Application</b></summary>
-<br/>
+**Repository:** [AI-Powered-Parametric-Income-Protection-for-Food-Delivery-Workers](https://github.com/Dhayananth1511/AI-Powered-Parametric-Income-Protection-for-Food-Delivery-Workers)
 
-A clean, logic-focused task management app.
+---
 
-| Attribute | Detail |
-|---|---|
-| **Repository** | [github.com/Dhayananth1511/ToDo-App](https://github.com/Dhayananth1511/ToDo-App) |
+### 📄 AI Planner — Document Analysis & Automated Scheduling
 
-</details>
+AI-powered document analysis and automated project scheduling project built around AI/RAG concepts.
 
-<details>
-<summary><b>🔹 Number Guessing Game</b></summary>
-<br/>
+**Repository:** [Project-AI-Agent-Planner-Rag-week5-presidio](https://github.com/Dhayananth1511/Project-AI-Agent-Planner-Rag-week5-presidio)
 
-A control-flow and program-structure practice project.
+---
 
-| Attribute | Detail |
-|---|---|
-| **Repository** | [github.com/Dhayananth1511/NumberGuessingGame](https://github.com/Dhayananth1511/NumberGuessingGame) |
+### ✅ To-Do List Application
 
-</details>
+Logic-focused task management application.
 
-👉 Check my [repositories](https://github.com/Dhayananth1511?tab=repositories) for complete implementations.
+**Repository:** [ToDo-App](https://github.com/Dhayananth1511/ToDo-App)
+
+---
+
+### 🎮 Number Guessing Game
+
+A beginner-friendly project focused on control flow, logic and program structure.
+
+**Repository:** [NumberGuessingGame](https://github.com/Dhayananth1511/NumberGuessingGame)
+
+---
+
+👉 [**Explore all repositories**](https://github.com/Dhayananth1511?tab=repositories)
 
 ---
 
 ## 💼 Experience
 
-**Software Engineering Intern** · Presidio (PRIME Internship)
-`Jun 2026 — Present`
+### Software Engineering Intern — Presidio PRIME Internship
 
-- Hands-on experience across Full Stack Development, DevOps, CI/CD, Cloud, and AI technologies
-- Worked with Generative AI, LLMs, Agentic AI, and Model Context Protocol (MCP)
-- Built a Multi-Agent Academic Project Mentor system as the internship capstone
+`Jun 2026 – Present`
 
-`React` `Node.js` `Docker` `GitHub Actions` `LLMs` `MCP`
+* Hands-on experience in **Full Stack Development, DevOps, CI/CD, Cloud and AI technologies**
+* Worked with **Generative AI, LLMs, Agentic AI and MCP**
+* Worked across frontend, backend and cloud integration
+* Built a production-oriented multi-agent travel planner capstone
+* Applied Docker and GitHub Actions in development workflows
+* Explored AI security and prompt injection concepts
 
-<br/>
+**Technologies:** `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT` `Docker` `GitHub Actions` `AWS` `LLMs` `MCP`
 
-**Full Stack &amp; DevOps Intern** · TechnoHacks Solutions Pvt. Ltd.
-`Jul 2025 — Aug 2025`
+### Full Stack & DevOps Intern — TechnoHacks Solutions Pvt. Ltd.
 
-- Worked on Full Stack Development and DevOps technologies as an individual contributor
+`Jul 2025 – Aug 2025` · `30 Days` · `Online`
 
-`Full Stack` `DevOps`
+* Individual contributor role focusing on **Full Stack and DevOps technologies**
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
-| Institution | Degree | Duration | Score |
-|---|---|---|---|
-| Bannari Amman Institute of Technology | B.Tech, Artificial Intelligence &amp; Data Science | 2024 – 2028 | CGPA 8.06/10.0 (upto 3rd sem) |
-| Vivekananda Matric Higher Secondary School | HSC / SSLC | 2022 – 2024 | HSC: 89.50% · SSLC: 81.8% |
-
-</div>
+| Institution                                    | Program                                         |  Duration |                                     Result |
+| ---------------------------------------------- | ----------------------------------------------- | --------: | -----------------------------------------: |
+| **Bannari Amman Institute of Technology**      | B.Tech — Artificial Intelligence & Data Science | 2024–2028 | **CGPA: 8.06/10.0** *(up to 3rd semester)* |
+| **Vivekananda Matric Higher Secondary School** | Higher Secondary / School Education             | 2022–2024 |              **HSC: 89.50% · SSLC: 81.8%** |
 
 ---
 
 ## 📜 Certifications
 
-![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Java%20SE%2017%20Developer-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white)
-![Java - LearnQuest](https://img.shields.io/badge/LearnQuest-Java%20Programming-6D28D9?style=flat-square&amp;logo=coursera&amp;logoColor=white)
-![Python - Infosys Springboard](https://img.shields.io/badge/Infosys%20Springboard-Python-1BA0D7?style=flat-square&amp;logo=infosys&amp;logoColor=white)
+* 🏅 **Oracle Java SE 17 Developer**
+* 📜 **Java Programming — LearnQuest**
+* 📜 **Python — Infosys Springboard**
 
 ---
 
@@ -258,13 +269,13 @@ A control-flow and program-structure practice project.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/u/ZzwGZFWBZs/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white)](https://hackerrank.com/dhayananth)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/ZzwGZFWBZs/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/dhayananth1511)
 
 <br/>
 
 <a href="https://leetcode.com/u/ZzwGZFWBZs/">
-<img src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&amp;border=1&amp;radius=18&amp;font=JetBrains%20Mono&amp;ext=activity&amp;width=650" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650" alt="LeetCode Stats"/>
 </a>
 
 </div>
@@ -275,10 +286,11 @@ A control-flow and program-structure practice project.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhayananth1511&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;rank_icon=percentile" width="49%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dhayananth1511&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhayananth1511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&rank_icon=percentile" width="49%"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhayananth1511&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dhayananth1511&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhayananth1511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 </div>
 
@@ -288,7 +300,7 @@ A control-flow and program-structure practice project.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhayananth1511&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhayananth1511&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 
 </div>
 
@@ -298,9 +310,21 @@ A control-flow and program-structure practice project.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhayananth1511&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=A78BFA&amp;line=8B5CF6&amp;point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhayananth1511&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dhayananth1511/Dhayananth1511/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> The snake image requires the corresponding GitHub Actions workflow in the profile repository.
 
 ---
 
@@ -308,29 +332,53 @@ A control-flow and program-structure practice project.
 
 ```yaml
 learning:
-  - LLM fundamentals from first principles
-  - Agentic AI architectures and Model Context Protocol (MCP)
+  - Advanced Data Structures & Algorithms
+  - LLM fundamentals
+  - Prompt Engineering
+  - RAG architectures
+  - Agentic AI
+  - Model Context Protocol (MCP)
+  - System Design
+  - DevOps and Cloud
+  - AI application security
+
 building:
   - Industry-level AI + full-stack projects
-  - A stronger DSA foundation
+  - AI-powered real-world applications
+  - Production-oriented backend systems
+  - Strong DSA and problem-solving foundation
+
 exploring:
-  - System design
   - Open-source contribution
+  - Cloud and DevOps
+  - Automation
+  - Developer productivity tools
+  - AI-assisted development
+
+tools:
+  - ChatGPT
+  - Claude
+  - GitHub Copilot
+  - Antigravity
+
 open_to:
   - Software Engineering internships and roles
-  - AI/ML collaboration and learning opportunities
+  - AI/ML collaboration
+  - Full-stack projects
+  - Open-source contribution
+  - Learning opportunities
 ```
 
 ---
 
-## 📫 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhayananth1511@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Dhayananth1511)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dhayananth1511)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dhayananth1511@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
 
 </div>
 
@@ -338,9 +386,10 @@ open_to:
 
 <div align="center">
 
-📌 *Open to internships, collaborative projects, and learning opportunities.*
-⭐ *If you like my work, consider giving my repositories a star!*
+📌 **Open to internships, collaborative projects, and learning opportunities.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer"/>
+⭐ **If you like my work, consider giving my repositories a star!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
