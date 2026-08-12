@@ -300,7 +300,7 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhayananth1511&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhayananth1511&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
