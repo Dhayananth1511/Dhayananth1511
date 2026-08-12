@@ -1,16 +1,18 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Dhayananth%20N&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&amp;descAlignY=58&amp;descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Dhayananth%20N&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40"/>
+
+### AI &amp; Data Science Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI-powered+full-stack+systems;Exploring+Agentic+AI+%2B+MCP;Java+%2B+Python+Developer;Turning+ideas+into+production" alt="Typing SVG" />
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6D28D9?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-AI%20and%20Data%20Science-6D28D9?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white)
 ![Location](https://img.shields.io/badge/Bannari%20Amman%20Institute%20of%20Technology-Tamil%20Nadu,%20India-4C1D95?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhayananth1511@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Dhayananth1511)
@@ -33,15 +35,23 @@
 
 ```yaml
 name: Dhayananth N
-role: AI &amp; Data Science Student · Aspiring Software Engineer · Java Developer
-education: B.Tech, Artificial Intelligence and Data Science (2024 – 2028)
-focus: Full-stack development, Agentic AI, LLMs &amp; Model Context Protocol (MCP)
+role: AI and Data Science Student · Aspiring Software Engineer · Java Developer
+education: B.Tech, Artificial Intelligence and Data Science (2024 - 2028)
+focus: Full-stack development, Agentic AI, LLMs, and Model Context Protocol (MCP)
 mindset: Learn deeply, build real, ship working products
 ```
 
 </div>
 
-I'm a third-year AI &amp; Data Science engineering student who enjoys building real, working software rather than tutorials. I recently completed a Software Engineering internship at **Presidio (PRIME Internship)**, where I worked hands-on with full-stack development, Docker, CI/CD (GitHub Actions), cloud fundamentals, Generative AI, LLMs, Agentic AI, and MCP — and shipped a capstone multi-agent system as the outcome. I care about writing clean code, understanding concepts from first principles, and steadily leveling up toward product-based company roles.
+I'm a third-year AI and Data Science engineering student who enjoys building real, working software rather than tutorials. I recently completed a Software Engineering internship at **Presidio (PRIME Internship)**, where I worked hands-on with full-stack development, Docker, CI/CD (GitHub Actions), cloud fundamentals, Generative AI, LLMs, Agentic AI, and MCP — and shipped a capstone multi-agent system as the outcome. I care about writing clean code, understanding concepts from first principles, and steadily leveling up toward product-based company roles.
+
+- 🔭 Focused on building scalable software solutions and applying AI to real-world problems
+- 🎓 Third-year **Artificial Intelligence &amp; Data Science** student
+- 💡 Interested in **Product-Based Companies**
+- 💻 Strong in **Java, DSA, Problem Solving, Logical Reasoning**
+- 🤖 Exploring **Machine Learning, Deep Learning, System Design &amp; Agentic AI**
+- 🚀 Building projects from basic to advanced level
+- 📫 Reach me at **dhayananth1511@gmail.com**
 
 **🔭 Open To:** Software Engineering Internships · AI/ML Engineering roles · Full-Stack opportunities · Open-source collaboration · Learning opportunities
 
@@ -57,11 +67,22 @@ I'm a third-year AI &amp; Data Science engineering student who enjoys building r
 
 **Full-Stack (from capstone project)**
 
-![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-**Cloud, DevOps &amp; Tools**
+**Cloud &amp; DevOps**
 
-![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![VSCode](https://skillicons.dev/icons?i=vscode) ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions)
+
+**Databases &amp; Data Tools**
+
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
+
+**IDEs &amp; Design Tools**
+
+![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&amp;logo=googlecolab&amp;logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&amp;logo=microsoftoffice&amp;logoColor=white)
 
 **AI Tools I use daily**
 
@@ -71,17 +92,19 @@ I'm a third-year AI &amp; Data Science engineering student who enjoys building r
 
 ---
 
-## 🤖 AI / ML &amp; Engineering Focus
+## 🤖 Core Concepts &amp; AI/ML Focus
 
 <div align="center">
 
 | Domain | Focus |
 |---|---|
+| Core CS | OOPs, DBMS, Data Structures &amp; Algorithms |
+| Data Science &amp; AI | Machine Learning, Deep Learning, Data Analysis, Statistics |
 | Generative AI &amp; LLMs | Prompting, LLM fundamentals, agent architectures |
 | Agentic AI &amp; MCP | Multi-agent systems, Model Context Protocol, tool integration |
 | Full-Stack Development | React.js, Node.js/Express, MongoDB, REST APIs |
 | DevOps &amp; Cloud | Docker, CI/CD (GitHub Actions), cloud fundamentals, AWS |
-| Core CS | OOPs, DBMS, Data Structures &amp; Algorithms |
+| Areas of Interest | AI, Full Stack, DevOps, UI/UX Design, Automation, Linux |
 
 </div>
 
@@ -118,6 +141,19 @@ AI-powered web assistant demonstrating modular AI agent architecture with memory
 | **Deployment** | Render |
 | **Repository** | [github.com/Dhayananth1511/AI_Projects/tree/main/ChatboxAI](https://github.com/Dhayananth1511/AI_Projects/tree/main/ChatboxAI) |
 | **Live Demo** | [ai-projects-blae.onrender.com](https://ai-projects-blae.onrender.com) |
+
+</details>
+
+<details>
+<summary><b>🔹 AI Planner — AI-Powered Document Analysis &amp; Scheduling</b></summary>
+<br/>
+
+An AI tool that analyzes documents and automatically generates project schedules.
+
+| Attribute | Detail |
+|---|---|
+| **Focus** | AI-powered document analysis, automated project scheduling |
+| **Category** | Applied AI / RAG product |
 
 </details>
 
@@ -171,12 +207,14 @@ A control-flow and program-structure practice project.
 
 </details>
 
+👉 Check my [repositories](https://github.com/Dhayananth1511?tab=repositories) for complete implementations.
+
 ---
 
 ## 💼 Experience
 
 **Software Engineering Intern** · Presidio (PRIME Internship)
-`2026`
+`Jun 2026 — Present`
 
 - Hands-on experience across Full Stack Development, DevOps, CI/CD, Cloud, and AI technologies
 - Worked with Generative AI, LLMs, Agentic AI, and Model Context Protocol (MCP)
@@ -223,6 +261,12 @@ A control-flow and program-structure practice project.
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/u/ZzwGZFWBZs/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white)](https://hackerrank.com/dhayananth)
 
+<br/>
+
+<a href="https://leetcode.com/u/ZzwGZFWBZs/">
+<img src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&amp;border=1&amp;radius=18&amp;font=JetBrains%20Mono&amp;ext=activity&amp;width=650" alt="LeetCode Stats" />
+</a>
+
 </div>
 
 ---
@@ -265,7 +309,7 @@ A control-flow and program-structure practice project.
 ```yaml
 learning:
   - LLM fundamentals from first principles
-  - Agentic AI architectures &amp; Model Context Protocol (MCP)
+  - Agentic AI architectures and Model Context Protocol (MCP)
 building:
   - Industry-level AI + full-stack projects
   - A stronger DSA foundation
@@ -273,7 +317,7 @@ exploring:
   - System design
   - Open-source contribution
 open_to:
-  - Software Engineering internships &amp; roles
+  - Software Engineering internships and roles
   - AI/ML collaboration and learning opportunities
 ```
 
@@ -286,7 +330,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhayananth1511@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dhayananth-n/)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Dhayananth1511)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://dhayananth1511.github.io/Portfolio/)
 
 </div>
 
