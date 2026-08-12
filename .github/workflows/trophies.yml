@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout main
         uses: actions/checkout@v4
 
       - name: Generate Trophy SVG
@@ -29,7 +29,6 @@ jobs:
           import json
           import os
           import urllib.request
-          import base64
           from pathlib import Path
           from html import escape
 
@@ -52,13 +51,13 @@ jobs:
               with urllib.request.urlopen(request) as response:
                   return json.loads(response.read().decode())
 
-          print("Getting GitHub profile...")
+          print("Fetching GitHub profile...")
 
           user = github_api(
               f"https://api.github.com/users/{USERNAME}"
           )
 
-          print("Getting repositories...")
+          print("Fetching repositories...")
 
           repositories = github_api(
               f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
@@ -81,22 +80,20 @@ jobs:
           languages = set()
 
           for repo in repositories:
-              language = repo.get("language")
-
-              if language:
-                  languages.add(language)
+              if repo.get("language"):
+                  languages.add(repo["language"])
 
           language_count = len(languages)
 
-          print(f"Repositories: {repo_count}")
-          print(f"Stars: {stars}")
-          print(f"Forks: {forks}")
-          print(f"Followers: {followers}")
-          print(f"Languages: {language_count}")
+          print("Repositories:", repo_count)
+          print("Stars:", stars)
+          print("Forks:", forks)
+          print("Followers:", followers)
+          print("Languages:", language_count)
 
-          # -----------------------------------------
-          # Trophy definitions
-          # -----------------------------------------
+          # -------------------------------
+          # Achievements
+          # -------------------------------
 
           trophies = []
 
@@ -151,7 +148,7 @@ jobs:
               add(
                   "🍴",
                   "First Fork",
-                  "Your project was forked"
+                  "A repository was forked"
               )
 
           if followers >= 10:
@@ -196,9 +193,9 @@ jobs:
 
           trophies = trophies[:12]
 
-          # -----------------------------------------
-          # Generate SVG
-          # -----------------------------------------
+          # -------------------------------
+          # SVG
+          # -------------------------------
 
           columns = 4
           card_width = 245
@@ -232,7 +229,7 @@ jobs:
               'font-size="28" '
               'font-weight="bold" '
               'fill="#ffffff">'
-              'GitHub Achievements'
+              '🏆 GitHub Achievements'
               '</text>'
           )
 
@@ -302,66 +299,48 @@ jobs:
               encoding="utf-8"
           )
 
-          print("github-trophies.svg generated successfully.")
+          print("SUCCESS: github-trophies.svg created")
 
           PY
 
-      - name: Upload Trophy SVG to output branch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # -------------------------------------------------------
+      # IMPORTANT:
+      # Put the generated file into the EXISTING output branch
+      # -------------------------------------------------------
+
+      - name: Publish Trophy to output branch
         run: |
-          echo "Uploading github-trophies.svg..."
+          echo "Preparing output branch..."
 
-          CONTENT=$(base64 -w 0 github-trophies.svg)
+          cp github-trophies.svg /tmp/github-trophies.svg
 
-          URL="https://api.github.com/repos/${GITHUB_REPOSITORY}/contents/github-trophies.svg"
+          git fetch origin output
 
-          RESPONSE=$(curl -s \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${GH_TOKEN}" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            "${URL}?ref=output")
+          git checkout output
 
-          SHA=$(echo "$RESPONSE" | python3 -c "
-          import sys,json
-          try:
-              data=json.load(sys.stdin)
-              print(data.get('sha',''))
-          except:
-              print('')
-          ")
+          cp /tmp/github-trophies.svg github-trophies.svg
 
-          if [ -n "$SHA" ]; then
-            echo "Existing trophy file found. Updating..."
-            
-            curl -L -s \
-              -X PUT \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer ${GH_TOKEN}" \
-              -H "X-GitHub-Api-Version: 2022-11-28" \
-              "https://api.github.com/repos/${GITHUB_REPOSITORY}/contents/github-trophies.svg" \
-              -d "{
-                \"message\": \"Update GitHub trophies\",
-                \"content\": \"${CONTENT}\",
-                \"sha\": \"${SHA}\",
-                \"branch\": \"output\"
-              }"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git add github-trophies.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to trophy SVG."
           else
-            echo "Trophy file does not exist. Creating..."
-
-            curl -L -s \
-              -X PUT \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer ${GH_TOKEN}" \
-              -H "X-GitHub-Api-Version: 2022-11-28" \
-              "https://api.github.com/repos/${GITHUB_REPOSITORY}/contents/github-trophies.svg" \
-              -d "{
-                \"message\": \"Add GitHub trophies\",
-                \"content\": \"${CONTENT}\",
-                \"branch\": \"output\"
-              }"
+            git commit -m "Update GitHub trophies"
+            git push origin output
           fi
 
+          echo "=================================="
+          echo "Trophy file published successfully"
+          echo "=================================="
+
+      - name: Verify Trophy File
+        run: |
+          echo "Checking generated file..."
+
+          git ls-tree -r --name-only HEAD | grep github-trophies.svg
+
           echo ""
-          echo "Trophy upload completed."
+          echo "Trophy SVG exists in output branch."
