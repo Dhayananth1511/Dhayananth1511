@@ -1,11 +1,10 @@
-```yaml
 name: Generate GitHub Trophies
 
 on:
-  schedule:
-    - cron: "30 0 * * *"
-
   workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
 
   push:
     branches:
@@ -15,91 +14,55 @@ permissions:
   contents: write
 
 jobs:
-  trophies:
+  generate-trophies:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Trophy SVG
+      - name: Generate Trophy SVG
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Dhayananth1511
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 <<'PY'
-          import os
           import json
+          import os
           import urllib.request
-          import urllib.error
           from pathlib import Path
           from html import escape
 
-          USERNAME = os.environ["USERNAME"]
-          TOKEN = os.environ["GH_TOKEN"]
-
-          API = "https://api.github.com"
+          USERNAME = "Dhayananth1511"
+          TOKEN = os.environ["GITHUB_TOKEN"]
 
           headers = {
               "Accept": "application/vnd.github+json",
               "Authorization": f"Bearer {TOKEN}",
-              "X-GitHub-Api-Version": "2026-03-10",
               "User-Agent": "github-trophy-generator"
           }
 
-          def api(path):
+          def github_api(url):
               request = urllib.request.Request(
-                  API + path,
+                  url,
                   headers=headers
               )
 
-              try:
-                  with urllib.request.urlopen(request) as response:
-                      return json.loads(response.read().decode())
-              except urllib.error.HTTPError as e:
-                  print(f"GitHub API error: {e.code} {path}")
-                  return None
+              with urllib.request.urlopen(request) as response:
+                  return json.loads(response.read().decode())
 
-          # ---------------------------------------------------------
-          # Get user information
-          # ---------------------------------------------------------
+          print("Fetching GitHub profile...")
 
-          user = api(f"/users/{USERNAME}")
+          user = github_api(
+              f"https://api.github.com/users/{USERNAME}"
+          )
 
-          if not user:
-              raise SystemExit("Unable to retrieve GitHub profile.")
+          print("Fetching repositories...")
 
-          public_repos = user.get("public_repos", 0)
-          followers = user.get("followers", 0)
-          following = user.get("following", 0)
+          repositories = github_api(
+              f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
+          )
 
-          # ---------------------------------------------------------
-          # Get repositories
-          # ---------------------------------------------------------
-
-          repositories = []
-
-          page = 1
-
-          while page <= 5:
-              data = api(
-                  f"/users/{USERNAME}/repos"
-                  f"?per_page=100&page={page}&sort=updated"
-              )
-
-              if not data:
-                  break
-
-              repositories.extend(data)
-
-              if len(data) < 100:
-                  break
-
-              page += 1
-
-          # ---------------------------------------------------------
-          # Repository statistics
-          # ---------------------------------------------------------
+          repos = len(repositories)
 
           stars = sum(
               repo.get("stargazers_count", 0)
@@ -111,201 +74,137 @@ jobs:
               for repo in repositories
           )
 
+          followers = user.get("followers", 0)
+
           languages = set()
 
           for repo in repositories:
-              language = repo.get("language")
-
-              if language:
-                  languages.add(language)
+              if repo.get("language"):
+                  languages.add(repo["language"])
 
           language_count = len(languages)
 
-          # ---------------------------------------------------------
-          # Determine achievements
-          # ---------------------------------------------------------
+          print(f"Repositories: {repos}")
+          print(f"Stars: {stars}")
+          print(f"Forks: {forks}")
+          print(f"Followers: {followers}")
+          print(f"Languages: {language_count}")
 
-          achievements = []
+          # ---------------------------------------
+          # Achievements
+          # ---------------------------------------
 
-          def add(icon, title, description):
-              achievements.append({
-                  "icon": icon,
-                  "title": title,
-                  "description": description
-              })
+          trophies = []
 
-          # Repository achievements
-
-          if public_repos >= 1:
-              add(
-                  "📦",
-                  "First Repository",
-                  "Created your first public repository"
+          def trophy(icon, title, description):
+              trophies.append(
+                  (icon, title, description)
               )
 
-          if public_repos >= 5:
-              add(
+          if repos >= 1:
+              trophy(
+                  "📦",
+                  "First Repository",
+                  "Created your first repository"
+              )
+
+          if repos >= 5:
+              trophy(
                   "🚀",
                   "Project Builder",
                   "5+ public repositories"
               )
 
-          if public_repos >= 10:
-              add(
+          if repos >= 10:
+              trophy(
                   "🏗️",
-                  "Builder",
+                  "Prolific Builder",
                   "10+ public repositories"
               )
 
-          if public_repos >= 25:
-              add(
-                  "🏆",
-                  "Open Source Builder",
-                  "25+ public repositories"
-              )
-
-          # Stars
-
           if stars >= 1:
-              add(
+              trophy(
                   "⭐",
                   "First Star",
-                  "Received your first repository star"
+                  "Received your first star"
               )
 
           if stars >= 10:
-              add(
+              trophy(
                   "🌟",
                   "Rising Star",
-                  "10+ repository stars"
+                  "Received 10+ stars"
               )
 
           if stars >= 50:
-              add(
+              trophy(
                   "💫",
                   "Star Collector",
-                  "50+ repository stars"
+                  "Received 50+ stars"
               )
-
-          if stars >= 100:
-              add(
-                  "✨",
-                  "Star Power",
-                  "100+ repository stars"
-              )
-
-          # Forks
 
           if forks >= 1:
-              add(
+              trophy(
                   "🍴",
                   "First Fork",
-                  "Your project was forked"
+                  "A repository was forked"
               )
-
-          if forks >= 10:
-              add(
-                  "🔱",
-                  "Fork Magnet",
-                  "10+ repository forks"
-              )
-
-          # Followers
 
           if followers >= 10:
-              add(
+              trophy(
                   "👥",
                   "Growing Network",
                   "10+ GitHub followers"
               )
 
           if followers >= 50:
-              add(
+              trophy(
                   "🌐",
                   "Community Builder",
                   "50+ GitHub followers"
               )
 
-          if followers >= 100:
-              add(
-                  "👑",
-                  "Community Leader",
-                  "100+ GitHub followers"
-              )
-
-          # Languages
-
           if language_count >= 3:
-              add(
+              trophy(
                   "💻",
                   "Polyglot Developer",
-                  "Projects using 3+ languages"
+                  "Used 3+ programming languages"
               )
 
           if language_count >= 5:
-              add(
+              trophy(
                   "🧠",
                   "Tech Explorer",
-                  "Projects using 5+ languages"
+                  "Used 5+ programming languages"
               )
 
-          # Special achievements
-
-          repo_names = {
-              repo.get("name", "").lower()
-              for repo in repositories
-          }
-
-          if "dhayananth1511" in repo_names:
-              add(
-                  "🏠",
-                  "Profile Creator",
-                  "Created a GitHub profile repository"
-              )
-
-          if any(
-              "ai" in repo.get("name", "").lower()
-              or "ml" in repo.get("name", "").lower()
-              for repo in repositories
-          ):
-              add(
-                  "🤖",
-                  "AI Developer",
-                  "Built AI/ML related projects"
-              )
-
-          if any(
-              "docker" in repo.get("name", "").lower()
-              or "devops" in repo.get("name", "").lower()
-              for repo in repositories
-          ):
-              add(
-                  "🐳",
-                  "DevOps Explorer",
-                  "Worked with DevOps-related projects"
-              )
-
-          # ---------------------------------------------------------
-          # Sort achievements
-          # ---------------------------------------------------------
-
-          achievements = achievements[:14]
-
-          # ---------------------------------------------------------
-          # SVG configuration
-          # ---------------------------------------------------------
-
-          width = 1050
-          card_width = 235
-          card_height = 150
-
-          columns = 4
-          rows = max(
-              1,
-              (len(achievements) + columns - 1) // columns
+          trophy(
+              "🤖",
+              "AI Developer",
+              "Building AI and ML projects"
           )
 
-          height = 115 + rows * 175
+          trophy(
+              "🐳",
+              "DevOps Explorer",
+              "Learning cloud and DevOps"
+          )
+
+          # Limit trophies
+          trophies = trophies[:12]
+
+          # ---------------------------------------
+          # SVG
+          # ---------------------------------------
+
+          columns = 4
+          card_width = 245
+          card_height = 155
+
+          rows = (len(trophies) + columns - 1) // columns
+
+          width = 1050
+          height = 110 + rows * 180
 
           svg = []
 
@@ -315,136 +214,100 @@ jobs:
               f'viewBox="0 0 {width} {height}">'
           )
 
-          # Background
-
           svg.append(
               '<rect width="100%" height="100%" '
               'rx="20" fill="#0d1117"/>'
           )
 
-          # Title
-
           svg.append(
-              '<text x="525" y="45" text-anchor="middle" '
-              'font-family="Arial, Helvetica, sans-serif" '
-              'font-size="28" font-weight="700" fill="#ffffff">'
-              '🏆 GitHub Achievements'
+              '<text x="525" y="42" '
+              'text-anchor="middle" '
+              'font-family="Arial, sans-serif" '
+              'font-size="28" '
+              'font-weight="bold" '
+              'fill="#ffffff">'
+              'GitHub Achievements'
               '</text>'
           )
 
           svg.append(
-              '<text x="525" y="72" text-anchor="middle" '
-              'font-family="Arial, Helvetica, sans-serif" '
-              'font-size="14" fill="#8b949e">'
-              f'{escape(USERNAME)} • {len(achievements)} achievements'
+              '<text x="525" y="68" '
+              'text-anchor="middle" '
+              'font-family="Arial, sans-serif" '
+              'font-size="14" '
+              'fill="#8b949e">'
+              f'{USERNAME}'
               '</text>'
           )
 
-          # Trophy cards
+          for i, (icon, title, description) in enumerate(trophies):
 
-          for index, achievement in enumerate(achievements):
+              col = i % columns
+              row = i // columns
 
-              column = index % columns
-              row = index // columns
-
-              x = 25 + column * 255
-              y = 95 + row * 175
+              x = 25 + col * 255
+              y = 90 + row * 180
 
               svg.append(
                   f'<rect x="{x}" y="{y}" '
-                  f'width="{card_width}" height="{card_height}" '
-                  'rx="16" fill="#161b22" '
-                  'stroke="#30363d" stroke-width="1"/>'
+                  f'width="{card_width}" '
+                  f'height="{card_height}" '
+                  'rx="16" '
+                  'fill="#161b22" '
+                  'stroke="#30363d"/>'
               )
 
               svg.append(
-                  f'<text x="{x + card_width / 2}" '
-                  f'y="{y + 45}" text-anchor="middle" '
+                  f'<text x="{x + 122}" '
+                  f'y="{y + 45}" '
+                  'text-anchor="middle" '
                   'font-size="32">'
-                  f'{achievement["icon"]}'
+                  f'{escape(icon)}'
                   '</text>'
               )
 
               svg.append(
-                  f'<text x="{x + card_width / 2}" '
-                  f'y="{y + 78}" text-anchor="middle" '
-                  'font-family="Arial, Helvetica, sans-serif" '
-                  'font-size="16" font-weight="700" '
+                  f'<text x="{x + 122}" '
+                  f'y="{y + 80}" '
+                  'text-anchor="middle" '
+                  'font-family="Arial, sans-serif" '
+                  'font-size="16" '
+                  'font-weight="bold" '
                   'fill="#ffffff">'
-                  f'{escape(achievement["title"])}'
+                  f'{escape(title)}'
                   '</text>'
               )
 
-              description = achievement["description"]
-
-              # Simple text wrapping
-
-              if len(description) > 34:
-                  words = description.split()
-                  line1 = ""
-                  line2 = ""
-
-                  for word in words:
-                      if len(line1 + " " + word) <= 34:
-                          line1 += (" " if line1 else "") + word
-                      else:
-                          line2 += (" " if line2 else "") + word
-
-                  svg.append(
-                      f'<text x="{x + card_width / 2}" '
-                      f'y="{y + 103}" text-anchor="middle" '
-                      'font-family="Arial, Helvetica, sans-serif" '
-                      'font-size="11" fill="#8b949e">'
-                      f'{escape(line1)}'
-                      '</text>'
-                  )
-
-                  svg.append(
-                      f'<text x="{x + card_width / 2}" '
-                      f'y="{y + 121}" text-anchor="middle" '
-                      'font-family="Arial, Helvetica, sans-serif" '
-                      'font-size="11" fill="#8b949e">'
-                      f'{escape(line2)}'
-                      '</text>'
-                  )
-
-              else:
-                  svg.append(
-                      f'<text x="{x + card_width / 2}" '
-                      f'y="{y + 112}" text-anchor="middle" '
-                      'font-family="Arial, Helvetica, sans-serif" '
-                      'font-size="11" fill="#8b949e">'
-                      f'{escape(description)}'
-                      '</text>'
-                  )
+              svg.append(
+                  f'<text x="{x + 122}" '
+                  f'y="{y + 108}" '
+                  'text-anchor="middle" '
+                  'font-family="Arial, sans-serif" '
+                  'font-size="11" '
+                  'fill="#8b949e">'
+                  f'{escape(description)}'
+                  '</text>'
+              )
 
           svg.append("</svg>")
 
-          output = Path("dist")
-          output.mkdir(exist_ok=True)
+          Path("dist").mkdir(exist_ok=True)
 
-          file = output / "github-trophies.svg"
-
-          file.write_text(
+          Path(
+              "dist/github-trophies.svg"
+          ).write_text(
               "\n".join(svg),
               encoding="utf-8"
           )
 
-          print(f"Generated {file}")
-          print(f"Repositories: {public_repos}")
-          print(f"Stars: {stars}")
-          print(f"Forks: {forks}")
-          print(f"Followers: {followers}")
-          print(f"Languages: {language_count}")
-          print(f"Achievements: {len(achievements)}")
+          print("Trophy SVG generated successfully.")
 
           PY
 
-      - name: Publish trophy SVG
+      - name: Publish Trophy SVG
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          force_orphan: false
-```
+          keep_files: true
