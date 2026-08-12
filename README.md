@@ -318,13 +318,20 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dhayananth1511/Dhayananth1511/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> The snake image requires the corresponding GitHub Actions workflow in the profile repository.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Dhayananth1511/Dhayananth1511/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Dhayananth1511/Dhayananth1511/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Dhayananth1511/Dhayananth1511/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
