@@ -278,7 +278,6 @@ A beginner-friendly project focused on control flow, logic and program structure
 <img src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650" alt="LeetCode Stats"/>
 </a>
 
-
 </div>
 
 ---
@@ -292,8 +291,6 @@ A beginner-friendly project focused on control flow, logic and program structure
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dhayananth1511&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhayananth1511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-
-
 
 </div>
 
