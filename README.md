@@ -275,7 +275,7 @@ A beginner-friendly project focused on control flow, logic and program structure
 <br/>
 
 <a href="https://leetcode.com/u/ZzwGZFWBZs/">
-<img src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?ext=heatmap&theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650" alt="LeetCode Stats"/>
 </a>
 
 
