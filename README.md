@@ -290,8 +290,8 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 <br/>
 
-<a href="https://leetcode.com/u/ZzwGZFWBZs/">
-<img src="https://leetcard.jacoblin.cool/ZzwGZFWBZs?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/Dhayananth1511/">
+<img src="https://leetcard.jacoblin.cool/Dhayananth1511?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650" alt="LeetCode Stats"/>
 </a>
 
 </div>
@@ -336,13 +336,15 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhayananth1511&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Dhayananth1511&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"
+  width="100%"
+  alt="Dhayananth's GitHub Contribution Activity"
+/>
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 ## 🐍 Contribution Snake
 
