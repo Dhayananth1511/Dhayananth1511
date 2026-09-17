@@ -75,7 +75,8 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Flask](https://skillicons.dev/icons?i=flask)
+<img src="https://skillicons.dev/icons?i=tailwind,vite" />
+
 
 `HTML` `CSS` `JavaScript` `React` `TypeScript` `Node.js` `Express.js` `Flask` `REST APIs` `JWT`
 
@@ -107,6 +108,7 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
+<img src="https://skillicons.dev/icons?i=postman" />
 
 `VS Code` `Google Colab` `Jupyter Notebook` `Figma` `Canva` `MS Office` `Python IDE` `Java IDE`
 
@@ -165,9 +167,7 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 **Repository:** [CapStoneProject_Presidio_InternShip](https://github.com/Dhayananth1511/CapStoneProject_Presidio_InternShip)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ### 🤖 Rocky AI — Conversational AI Chatbot
 
@@ -285,7 +285,7 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ZzwGZFWBZs/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhayananth1511/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhayananth1511)
 
 <br/>
