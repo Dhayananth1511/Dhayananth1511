@@ -51,7 +51,9 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 **Open to:** Software Engineering Internships · AI/ML Opportunities · Full-Stack Projects · Open Source · Collaborative Learning
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🛠️ Skills & Technologies
 
@@ -112,7 +114,7 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 `ChatGPT` `Claude` `GitHub Copilot` `Antigravity`
 
----
+<div align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
 
 ## 🧠 Computer Science & Engineering Concepts
 
@@ -127,7 +129,9 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 * **Cloud Fundamentals**
 * **AI Application Security & Prompt Injection Awareness**
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🚀 Featured Projects
 
@@ -161,7 +165,9 @@ I'm a third-year **Artificial Intelligence and Data Science** student interested
 
 **Repository:** [CapStoneProject_Presidio_InternShip](https://github.com/Dhayananth1511/CapStoneProject_Presidio_InternShip)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🤖 Rocky AI — Conversational AI Chatbot
 
@@ -178,8 +184,9 @@ AI-powered conversational web assistant demonstrating modular AI-agent architect
 * Render deployment
 
 **Repository:** [Rocky-AI-Intelligent-AI-Agent-Web-Application](https://github.com/Dhayananth1511/Rocky-AI-Intelligent-AI-Agent-Web-Application)
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 💼 HireMatrix AI — Predictive Hiring Intelligence System
 
@@ -187,7 +194,9 @@ Automation-focused AI project for streamlining the hiring process.
 
 **Repository:** [HireMatrix-AI-Predictive-Hiring-Intelligence-System](https://github.com/Dhayananth1511/-HireMatrix-AI-Predictive-Hiring-Intelligence-System)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🛡️ GigPulse — AI Parametric Insurance
 
@@ -197,7 +206,9 @@ AI-powered parametric insurance solution for **food-delivery workers**, using da
 
 **Repository:** [AI-Powered-Parametric-Income-Protection-for-Food-Delivery-Workers](https://github.com/Dhayananth1511/AI-Powered-Parametric-Income-Protection-for-Food-Delivery-Workers)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 📄 AI Planner — Document Analysis & Automated Scheduling
 
@@ -205,15 +216,18 @@ AI-powered document analysis and automated project scheduling project built arou
 
 **Repository:** [Project-AI-Agent-Planner-Rag-week5-presidio](https://github.com/Dhayananth1511/Project-AI-Agent-Planner-Rag-week5-presidio)
 
----
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 ### ✅ To-Do List Application
 
 Logic-focused task management application.
 
 **Repository:** [ToDo-App](https://github.com/Dhayananth1511/ToDo-App)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🎮 Number Guessing Game
 
@@ -221,11 +235,14 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 **Repository:** [NumberGuessingGame](https://github.com/Dhayananth1511/NumberGuessingGame)
 
----
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 👉 [**Explore all repositories**](https://github.com/Dhayananth1511?tab=repositories)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 💼 Experience
 
@@ -248,7 +265,9 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 * Individual contributor role focusing on **Full Stack and DevOps technologies**
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🎓 Education
 
@@ -256,8 +275,9 @@ A beginner-friendly project focused on control flow, logic and program structure
 | ---------------------------------------------- | ----------------------------------------------- | --------: | -----------------------------------------: |
 | **Bannari Amman Institute of Technology**      | B.Tech — Artificial Intelligence & Data Science | 2024–2028 | **CGPA: 8.06/10.0** *(up to 3rd semester)* |
 | **Vivekananda Matric Higher Secondary School** | Higher Secondary / School Education             | 2022–2024 |              **HSC: 89.50% · SSLC: 81.8%** |
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 📜 Certifications
 
@@ -265,8 +285,9 @@ A beginner-friendly project focused on control flow, logic and program structure
 * 📜 **Java Programming — LearnQuest**
 * 📜 **Python — Infosys Springboard**
 
----
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -282,7 +303,9 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -296,7 +319,9 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -310,7 +335,9 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 📈 Contribution Activity
 
@@ -320,7 +347,9 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -339,7 +368,9 @@ A beginner-friendly project focused on control flow, logic and program structure
   />
 </picture>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🎯 Current Focus
 
@@ -382,7 +413,7 @@ open_to:
   - Learning opportunities
 ```
 
----
+<div align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
 
 ## 🤝 Connect With Me
 
@@ -395,7 +426,7 @@ open_to:
 
 </div>
 
----
+<div align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
 
 <div align="center">
 
