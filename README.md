@@ -184,9 +184,9 @@ AI-powered conversational web assistant demonstrating modular AI-agent architect
 * Render deployment
 
 **Repository:** [Rocky-AI-Intelligent-AI-Agent-Web-Application](https://github.com/Dhayananth1511/Rocky-AI-Intelligent-AI-Agent-Web-Application)
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
+---
+
 
 ### 💼 HireMatrix AI — Predictive Hiring Intelligence System
 
@@ -194,9 +194,7 @@ Automation-focused AI project for streamlining the hiring process.
 
 **Repository:** [HireMatrix-AI-Predictive-Hiring-Intelligence-System](https://github.com/Dhayananth1511/-HireMatrix-AI-Predictive-Hiring-Intelligence-System)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ### 🛡️ GigPulse — AI Parametric Insurance
 
@@ -206,9 +204,7 @@ AI-powered parametric insurance solution for **food-delivery workers**, using da
 
 **Repository:** [AI-Powered-Parametric-Income-Protection-for-Food-Delivery-Workers](https://github.com/Dhayananth1511/AI-Powered-Parametric-Income-Protection-for-Food-Delivery-Workers)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ### 📄 AI Planner — Document Analysis & Automated Scheduling
 
@@ -216,18 +212,15 @@ AI-powered document analysis and automated project scheduling project built arou
 
 **Repository:** [Project-AI-Agent-Planner-Rag-week5-presidio](https://github.com/Dhayananth1511/Project-AI-Agent-Planner-Rag-week5-presidio)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
+
 ### ✅ To-Do List Application
 
 Logic-focused task management application.
 
 **Repository:** [ToDo-App](https://github.com/Dhayananth1511/ToDo-App)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ### 🎮 Number Guessing Game
 
@@ -235,9 +228,8 @@ A beginner-friendly project focused on control flow, logic and program structure
 
 **Repository:** [NumberGuessingGame](https://github.com/Dhayananth1511/NumberGuessingGame)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
+
 👉 [**Explore all repositories**](https://github.com/Dhayananth1511?tab=repositories)
 
 <div align="center">
@@ -288,6 +280,7 @@ A beginner-friendly project focused on control flow, logic and program structure
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 ## 💻 Coding Profiles
 
 <div align="center">
