@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dhayananth%20N&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### AI & Data Science Student • Software Engineer • Full Stack & AI Enthusiast
+### AI & Data Science Student • Software Engineer • Full Stack & AI Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+systems;Exploring+Agentic+AI+%2B+MCP;Java+%2B+Python+Developer;Turning+ideas+into+real-world+products" alt="Typing SVG" />
 
